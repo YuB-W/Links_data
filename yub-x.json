@@ -1,5 +1,5 @@
 {
-  "Version": "https://github.com/YuB-W/files/raw/main/version.yub",
-  "AutoUpdateDLL": "https://github.com/YuB-W/files/raw/main/AutoUpdateDLL.yub",
+  "Version": "5.4.0",
+  "AutoUpdateDLL": "5.5.1",
   "AceLink": "https://cdn.discordapp.com/attachments/1108963870195851294/1138729563837431818/ace.zip"
 }
