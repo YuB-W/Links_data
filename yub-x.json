@@ -1,4 +1,4 @@
-{   
+{
   "inject1link": "https://cdn.discordapp.com/attachments/1108894459770437634/1108957646922457168/BypassUWP.dll",
   "UWP_Version": "2.590.678.0",
   "1Ai_Auto_Update": "false",
@@ -9,5 +9,14 @@
   "Flux": "false",
   "Version": "5.4.0",
   "AutoUpdateDLL": "5.5.1",
-  "AceLink": "https://cdn.discordapp.com/attachments/1108963870195851294/1138729563837431818/ace.zip"
+  "AceLink": "https://cdn.discordapp.com/attachments/1108963870195851294/1138729563837431818/ace.zip",
+  "Module": "https://cdn.discordapp.com/attachments/1108963298424131584/1142011940315611186/Module.dll",
+  "yubapilink": "https://github.com/YuB-W/files/raw/main/wgawga.dll",
+  "updateprolink": "https://cdn.discordapp.com/attachments/1108963870195851294/1140460724339093514/Update-Pro.exe",
+  "yubLauncherprolnk": "https://cdn.discordapp.com/attachments/1109797189020041266/1133717639022268488/yub-Launcher-pro.exe",
+  "finj5link": "https://github.com/WeAreDevs-Official/WeAreDevs-Official.github.io/raw/master/versions/3-16/FluxteamInjector.exe",
+  "decompiler": "https://cdn.discordapp.com/attachments/1108963870195851294/1108963905293779044/d3dcompiler_47.dll",
+  "injectdll": "https://cdn.discordapp.com/attachments/1126177245703176212/1138705513291456512/inj.exe",
+  "teleportdll": "https://cdn.discordapp.com/attachments/1109779940112597083/1141959373527187516/YuB-X-API_free.dll",
+  "Bypass_dll": "https://cdn.discordapp.com/attachments/1112727366658175058/1114812325292167188/YuB-X-API.dll"
 }
