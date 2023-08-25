@@ -1,4 +1,8 @@
-{
+{   
+  "inject1link": "https://cdn.discordapp.com/attachments/1108894459770437634/1108957646922457168/BypassUWP.dll",
+  "UWP_Version": "2.590.678.0",
+  "1Ai_Auto_Update": "false",
+  "2Ai_Auto_Update": "false",
   "Ai_Auto_Update": "false",
   "fast_update": "1.3.9",
   "key": "N-N-6N@T@-@6--6N-352-Bf#%#",
