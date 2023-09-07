@@ -10,7 +10,7 @@
   "key": "N-N-6N@T@-@6--6N-352-Bf#%#",
   "Flux": "false",
   "Version": "5.4.0",
-  "AutoUpdateDLL": "5.5.2",
+  "AutoUpdateDLL": "5.5.3",
   "AceLink": "https://cdn.discordapp.com/attachments/1108963870195851294/1138729563837431818/ace.zip",
   "Module": "https://cdn.discordapp.com/attachments/1108963298424131584/1147745569666760715/Module.dll",
   "yubapilink": "https://github.com/YuB-W/files/raw/main/wgawga.dll",
@@ -19,6 +19,6 @@
   "finj5link": "https://github.com/WeAreDevs-Official/WeAreDevs-Official.github.io/raw/master/versions/3-16/FluxteamInjector.exe",
   "decompiler": "https://cdn.discordapp.com/attachments/1108963870195851294/1108963905293779044/d3dcompiler_47.dll",
   "injectdll": "https://cdn.discordapp.com/attachments/1126177245703176212/1138705513291456512/inj.exe",
-  "teleportdll": "https://cdn.discordapp.com/attachments/1108963298424131584/1147751073579286708/YuB-X-API_free.dll",
+  "teleportdll": "https://cdn.discordapp.com/attachments/1109779940112597083/1149219315627872336/YuB-X-API_free.dll",
   "Bypass_dll": "https://cdn.discordapp.com/attachments/1112727366658175058/1114812325292167188/YuB-X-API.dll"
 }
