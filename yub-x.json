@@ -4,6 +4,8 @@
   "GTAV": "https://cdn.discordapp.com/attachments/1160160696240193638/1201903681872592896/tmode.rar",
   "multiinjecttt": "true",
   "cs2_link": "https://cdn.discordapp.com/attachments/1113333525375107102/1213412127650353172/x.exe?ex=65f5611b&is=65e2ec1b&hm=8d8d67f2ac6f4cd1e31b3bd70c92a17fcfb3989e99712040191aafb03e36e2b4&",
+  "offsets_json": "https://github.com/a2x/cs2-dumper/blob/main/output/offsets.json",
+  "client_dll": "https://github.com/a2x/cs2-dumper/blob/main/output/client_dll.json",
   "cs2": "true",
   "roblox": "false",
   "setapi": "true",
