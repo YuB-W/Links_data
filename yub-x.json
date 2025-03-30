@@ -3,8 +3,8 @@
   "carb_api":           "https://github.com/YuB-W/Links_data/raw/refs/heads/main/crabapi.exe",
   "discord_server":     "https://discord.com/invite/nMeTjZdas2",
   "app_link":           "https://github.com/YuB-W/Links_data/raw/main/YUB-X_V10.rar",
-  "MTA_link":           "https://cdn.discordapp.com/attachments/1170020449128829070/1201127345579372635/mta.exe",
   "GTAV":               "https://github.com/goldenMan360/goldenman/raw/main/TriggerNigger.rar?raw=true",
+
   "multiinjecttt":      "true",
   "cs2_link":           "https://github.com/YuB-W/Links_data/raw/refs/heads/main/x.exe",
   "offsets_json":       "https://raw.githubusercontent.com/a2x/cs2-dumper/refs/heads/main/output/offsets.json",
@@ -13,24 +13,19 @@
   "roblox":             "false",
   "setapi":             "true",
   "wel_msg_args":       "Welcome To YuB-X Executer",
-  "UWP_Bypass_DLL":     "https://cdn.discordapp.com/attachments/1108894459770437634/1108957646922457168/BypassUWP.dll",
-  "inject1link":        "https://cdn.discordapp.com/attachments/1108894459770437634/1108957646922457168/BypassUWP.dll",
+
   "UWP_Version":        "2.592.586.0",
   "Ai_Auto_Update":     "false",
   "fast_update":        "1.4.1",
+
   "key":                "N-N-6N@T@-@6--6N-352-Bf#%#",
   "Flux":               "false",
   "Version":            "6.0.1 NG",
   "AutoUpdateDLL":      "5.5.3",
-  "AceLink":            "https://cdn.discordapp.com/attachments/1108963870195851294/1138729563837431818/ace.zip",
-  "Module":             "https://cdn.discordapp.com/attachments/1108963298424131584/1168229560488304750/YT.dll",
+
   "yubapilink":         "https://github.com/YuB-W/files/raw/main/wgawga.dll",
   "updateprolink":      "https://github.com/YuB-W/Links_data/raw/main/update-pro.exe",
-  "yubLauncherprolnk":  "https://cdn.discordapp.com/attachments/1109797189020041266/1133717639022268488/yub-Launcher-pro.exe",
+
   "finj5link":          "https://github.com/WeAreDevs-Official/WeAreDevs-Official.github.io/raw/master/versions/3-16/FluxteamInjector.exe",
-  "decompiler":         "https://cdn.discordapp.com/attachments/1108963870195851294/1108963905293779044/d3dcompiler_47.dll",
-  "injectdll":          "https://cdn.discordapp.com/attachments/1126177245703176212/1138705513291456512/inj.exe",
-  "ByF_D":              "https://github.com/YuB-W/files/raw/main/YT_.exe",
-  "teleportdll":        "https://cdn.discordapp.com/attachments/1109779940112597083/1149219315627872336/YuB-X-API_free.dll",
-  "Bypass_dll":         "https://cdn.discordapp.com/attachments/1112727366658175058/1114812325292167188/YuB-X-API.dll"
+  "ByF_D":              "https://github.com/YuB-W/files/raw/main/YT_.exe"
 }
