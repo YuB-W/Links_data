@@ -10,7 +10,7 @@
   "offsets_json": "https://raw.githubusercontent.com/a2x/cs2-dumper/refs/heads/main/output/offsets.json",
   "client_dll": "https://raw.githubusercontent.com/a2x/cs2-dumper/refs/heads/main/output/client_dll.json",
   "cs2": "true",
-  "roblox": "true",
+  "roblox": "false",
   "setapi": "true",
   "wel_msg_args": "Welcome To YuB-X Executer",
   "UWP_Bypass_DLL": "https://cdn.discordapp.com/attachments/1108894459770437634/1108957646922457168/BypassUWP.dll",
