@@ -1,6 +1,4 @@
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
-
 ---loadstring(game:HttpGet("https://github.com/unified-naming-convention/NamingStandard/raw/refs/heads/main/UNCCheckEnv.lua"))()
 
 print(identifyexecutor())
